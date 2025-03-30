@@ -51,7 +51,7 @@
   <li>🖥️ See my portfolio at <a href="http://github.com/RashSVR" target="_blank" rel="noreferrer">GitHub</a></li>
   <li>✉️ You can contact me at <a href="mailto:rashmi.s.v.rajapaksha@gmail.com">rashmi.s.v.rajapaksha@gmail.com</a></li>
   <li>🚀 I'm currently working on [DriveStock](http://github.com/RashSVR), a web application designed to streamline inventory management for automotive parts using a modern MERN stack. The frontend, built with React, Vite, and Tailwind CSS, integrates seamlessly with a separate backend to deliver a fast, responsive user experience.</li>
-  <li>🧠 I'm learning Spring Boot</li>
+  <li>🧠 I'm self-studying startup business concepts, focusing on three key areas: product development, marketing, and funding. I’m building my own projects independently to turn my ideas into reality.</li>
   <li>🤝 I'm open to collaborating on innovative and exciting projects</li>
 </ul>
 
