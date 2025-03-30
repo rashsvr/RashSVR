@@ -50,7 +50,7 @@
   <li>🌍 I'm based in Sri Lanka</li>
   <li>🖥️ See my portfolio at <a href="http://github.com/RashSVR" target="_blank" rel="noreferrer">GitHub</a></li>
   <li>✉️ You can contact me at <a href="mailto:rashmi.s.v.rajapaksha@gmail.com">rashmi.s.v.rajapaksha@gmail.com</a></li>
-  <li>🚀 I'm currently working on <a href="http://github.com/RashSVR" target="_blank" rel="noreferrer">Developing an app designed to support children with dyslexia</a></li>
+  <li>🚀 I'm currently working on [DriveStock](http://github.com/RashSVR), a web application designed to streamline inventory management for automotive parts using a modern MERN stack. The frontend, built with React, Vite, and Tailwind CSS, integrates seamlessly with a separate backend to deliver a fast, responsive user experience.</li>
   <li>🧠 I'm learning Spring Boot</li>
   <li>🤝 I'm open to collaborating on innovative and exciting projects</li>
 </ul>
@@ -306,10 +306,10 @@
 
 <h3 align="center" >Contact me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/rashmi-rajapaksha-rashsvr" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/rashsvr" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Rajapaksha-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://gitlab.com/rashmi-rajapaksha" target="_blank" rel="noreferrer">
+  <a href="https://gitlab.com/rashsvr" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitLab-Rashmi%20Rajapaksha-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
  <a href="https://g.dev/RashmiRajapaksha-RashSVR" target="_blank" rel="noreferrer">
