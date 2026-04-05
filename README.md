@@ -24,23 +24,44 @@ I'm Rashmi Rajapaksha
   <a href="https://www.github.com/RashSVR" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/RashSVR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
   </a>
+  <a href="https://www.github.com/RashSVR" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/stars/RashSVR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub stars" />
+  </a>
 </p>
 
 ---
 
+<!-- STREAK -->
 <p align="center">
-  <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashSVR&theme=radical&hide_border=true" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=RashSVR&theme=radical&show_icons=true&hide_border=true&count_private=true" style="vertical-align: middle;"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=RashSVR&theme=radical&hide_border=true"/>
 </p>
 
+<!-- STATS + TOP LANGS -->
 <p align="center">
-  <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&theme=radical&show_icons=true&hide_border=true&layout=compact" style="vertical-align: middle;"/>
-  </a>
+  <img src="https://readme-stats-omega-ten.vercel.app/api?username=RashSVR&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="vertical-align: middle;"/>
+  <img src="https://readme-stats-omega-ten.vercel.app/api/top-langs/?username=RashSVR&theme=radical&hide_border=true&layout=compact&langs_count=10" style="vertical-align: middle;"/>
+</p>
+
+<!-- PROFILE SUMMARY BAR — total repos, commits, PRs, issues, contributions -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=radical" style="width: 100%;"/>
+</p>
+
+<!-- REPOS PER LANGUAGE + MOST COMMIT LANGUAGE -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashSVR&theme=radical" style="vertical-align: middle;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RashSVR&theme=radical" style="vertical-align: middle;"/>
+</p>
+
+<!-- STATS + PRODUCTIVE TIME (Sri Lanka UTC+5.5) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashSVR&theme=radical" style="vertical-align: middle;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=radical&utcOffset=5.5" style="vertical-align: middle;"/>
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashSVR&theme=react-dark&hide_border=true&area=true" style="width: 100%;"/>
 </p>
 
 ---
@@ -49,7 +70,7 @@ I'm Rashmi Rajapaksha
   <li>🌍 Based in Sri Lanka</li>
   <li>🖥️ Portfolio: <a href="http://rashsvr.com" target="_blank" rel="noreferrer">rashsvr.com</a></li>
   <li>✉️ <a href="mailto:rashmi.s.v.rajapaksha@gmail.com">rashmi.s.v.rajapaksha@gmail.com</a></li>
-  <li>🚀 Currently building products across AI agents, brain development games, AR/XR & community platforms — independently</li>
+  <li>🚀 Currently building across AI agents, brain development games, AR/XR & community platforms — independently</li>
   <li>🤝 Open to freelance contracts, short-term project engagements & research collaborations</li>
   <li>🎻 Violinist · ♟️ Chess player · occasional sleep enthusiast</li>
 </ul>
@@ -87,6 +108,9 @@ I'm Rashmi Rajapaksha
 <img src="https://img.shields.io/badge/vue-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Vite-%234AABF4.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
 
 <!-- Backend & AI -->
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -102,6 +126,7 @@ I'm Rashmi Rajapaksha
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/realm-%23F9A01B.svg?style=flat-square&logo=realm&logoColor=white" alt="Realm"/>
+<img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -118,11 +143,12 @@ I'm Rashmi Rajapaksha
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
 <img src="https://img.shields.io/badge/inkscape-%23000000.svg?style=flat-square&logo=inkscape&logoColor=white" alt="Inkscape"/>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 
 <!-- OS -->
 <img src="https://img.shields.io/badge/Android-%234F6D44.svg?style=flat-square&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=flat-square&logo=ios&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/Linux-%023D24.svg?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/macOS-%23000000.svg?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
 <img src="https://img.shields.io/badge/Windows-%230079D1.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
 
