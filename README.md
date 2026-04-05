@@ -18,10 +18,10 @@
 &nbsp;
 BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026
 
-<div align="center">
+<p align="center">
 Independent dev — mobile · web · AI agents · AR/XR
 3+ yrs · shipped for clients  · freelance & contract only
-</div>
+</p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_rashsvr.com-0d1117?style=for-the-badge&logoColor=white)](http://rashsvr.com)
 [![Email](https://img.shields.io/badge/✉_Email-0891b2?style=for-the-badge&logoColor=white)](mailto:rashmi.s.v.rajapaksha@gmail.com)
@@ -42,7 +42,7 @@ Independent dev — mobile · web · AI agents · AR/XR
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
 ### `> whoami`
-<div align="center">
+<p align="left">
  
 name       : Rashmi Rajapaksha
 location   : Sri Lanka 🇱🇰
@@ -52,7 +52,7 @@ available  : Freelance & contract
 building   : AI agents · Brain dev games · AR/XR · Community platforms · mobile · web · 
 interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast
  
-</div>
+</p>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -75,11 +75,7 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=github_dark" width="100%"/>
-
-</div>
+ 
 
 <div align="center">
 
