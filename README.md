@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Rashmi%20Rajapaksha&reversal=false&fontAlignY=48&fontAlign=50&desc=Full%20Stack%20Software%20Engineer&fontSize=60&descSize=30&descAlignY=59" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Rashmi%20Rajapaksha&reversal=true&fontAlignY=48&fontAlign=50&desc=Full%20Stack%20Software%20Engineer&fontSize=50&descSize=20&descAlignY=59&section=footer" width="100%"/>
 
 </div>
 
