@@ -1,173 +1,195 @@
-<h3 align="center">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<pre> 
- __      __  ____    __       ____     _____            ____      
-/\ \  __/\ \/\  _`\ /\ \     /\  _`\  /\  __`\  /'\_/`\/\  _`\    
-\ \ \/\ \ \ \ \ \L\_\ \ \    \ \ \/\_\\ \ \/\ \/\      \ \ \L\_\  
- \ \ \ \ \ \ \ \  _\L\ \ \  __\ \ \/_/_\ \ \ \ \ \ \__\ \ \  _\L  
-  \ \ \_/ \_\ \ \ \L\ \ \ \L\ \\ \ \L\ \\ \ \_\ \ \ \_/\ \ \ \L\ \
-   \ `\___x___/\ \____/\ \____/ \ \____/ \ \_____\ \_\\ \_\ \____/
-    '\/__//__/  \/___/  \/___/   \/___/   \/_____/\/_/ \/_/\/___/ 
-</pre>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
-I'm Rashmi Rajapaksha
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=200&section=header&text=Rashmi%20Rajapaksha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Mobile%20%E2%80%A2%20AR%2FXR&descAlignY=58&descColor=94d4e7&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <b>BSc (Hons) Full Stack Software Engineering · BCU, UK (2026)</b><br/>
-  Independent dev — mobile, web, AI agents & AR/XR<br/>
-  3+ yrs · shipped for clients worldwide · freelance & contract only
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.github.com/RashSVR" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/RashSVR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
-  </a>
-  <a href="https://www.github.com/RashSVR" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/stars/RashSVR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub stars" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      INTRO BLOCK                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-<!-- STREAK -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RashSVR&theme=radical&hide_border=true"/>
-</p>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="22"/>
+&nbsp;
+**`BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026`**
 
-<!-- STATS + TOP LANGS -->
-<p align="center">
-  <img src="https://readme-stats-omega-ten.vercel.app/api?username=RashSVR&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="vertical-align: middle;"/>
-  <img src="https://readme-stats-omega-ten.vercel.app/api/top-langs/?username=RashSVR&theme=radical&hide_border=true&layout=compact&langs_count=10" style="vertical-align: middle;"/>
-</p>
+```
+Independent dev — mobile · web · AI agents · AR/XR
+3+ yrs · shipped for clients worldwide · freelance & contract only
+```
 
-<!-- PROFILE SUMMARY BAR — total repos, commits, PRs, issues, contributions -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=radical" style="width: 100%;"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_rashsvr.com-0d1117?style=for-the-badge&logoColor=white)](http://rashsvr.com)
+[![Email](https://img.shields.io/badge/✉_Email-0891b2?style=for-the-badge&logoColor=white)](mailto:rashmi.s.v.rajapaksha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashsvr)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rashsvr)
 
-<!-- REPOS PER LANGUAGE + MOST COMMIT LANGUAGE -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashSVR&theme=radical" style="vertical-align: middle;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RashSVR&theme=radical" style="vertical-align: middle;"/>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/RashSVR?logo=github&style=flat-square&color=0891b2&labelColor=0d1117&label=followers)](https://github.com/RashSVR)
+[![GitHub stars](https://img.shields.io/github/stars/RashSVR?logo=github&style=flat-square&color=0891b2&labelColor=0d1117&label=stars)](https://github.com/RashSVR)
 
-<!-- STATS + PRODUCTIVE TIME (Sri Lanka UTC+5.5) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashSVR&theme=radical" style="vertical-align: middle;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=radical&utcOffset=5.5" style="vertical-align: middle;"/>
-</p>
+</div>
 
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashSVR&theme=react-dark&hide_border=true&area=true" style="width: 100%;"/>
-</p>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<ul>
-  <li>🌍 Based in Sri Lanka</li>
-  <li>🖥️ Portfolio: <a href="http://rashsvr.com" target="_blank" rel="noreferrer">rashsvr.com</a></li>
-  <li>✉️ <a href="mailto:rashmi.s.v.rajapaksha@gmail.com">rashmi.s.v.rajapaksha@gmail.com</a></li>
-  <li>🚀 Currently building across AI agents, brain development games, AR/XR & community platforms — independently</li>
-  <li>🤝 Open to freelance contracts, short-term project engagements & research collaborations</li>
-  <li>🎻 Violinist · ♟️ Chess player · occasional sleep enthusiast</li>
-</ul>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
----
+### `> whoami`
 
-<h3 align="center">Stack</h3>
+```yaml
+name       : Rashmi Rajapaksha
+location   : Sri Lanka 🇱🇰
+degree     : BSc (Hons) Full Stack Software Engineering — BCU, UK (2026)
+experience : 3+ years · international clients · real products
+available  : Freelance & contract only · No exclusivity · No full-time
+building   : AI agents · Brain dev games · AR/XR · Community platforms
+interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast
+```
 
-<p align="center">
+<br/>
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/python-%23389939.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Mobile & AR -->
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/unity-%232C2C2C.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37" alt="Expo"/>
+### `> stats --all --include-private`
 
-<!-- Web -->
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/three.js-%2345A29E.svg?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
-<img src="https://img.shields.io/badge/WebGL-%2338C6D7.svg?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
-<img src="https://img.shields.io/badge/Web3.js-%232D72E4.svg?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js"/>
-<img src="https://img.shields.io/badge/vue-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Vite-%234AABF4.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
+<div align="center">
 
-<!-- Backend & AI -->
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="49%"/>
+<img src="https://readme-stats-omega-ten.vercel.app/api?username=RashSVR&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=0891b2&title_color=0891b2&text_color=94d4e7" width="49%"/>
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-<img src="https://img.shields.io/badge/supabase-%2348A5F1.svg?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/realm-%23F9A01B.svg?style=flat-square&logo=realm&logoColor=white" alt="Realm"/>
-<img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+</div>
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/GitLab%20CI-%23FCA121.svg?style=flat-square&logo=gitlab-ci&logoColor=white" alt="GitLab CI"/>
-<img src="https://img.shields.io/badge/Figma-%23324F8C.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/adobe%20xd-%230C0C0C.svg?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
-<img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Xcode-%23000000.svg?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/inkscape-%23000000.svg?style=flat-square&logo=inkscape&logoColor=white" alt="Inkscape"/>
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+<div align="center">
 
-<!-- OS -->
-<img src="https://img.shields.io/badge/Android-%234F6D44.svg?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/iOS-%23000000.svg?style=flat-square&logo=ios&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/macOS-%23000000.svg?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
-<img src="https://img.shields.io/badge/Windows-%230079D1.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://readme-stats-omega-ten.vercel.app/api/top-langs/?username=RashSVR&theme=dark&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=0891b2&text_color=94d4e7" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=github_dark&utcOffset=5.5" width="49%"/>
 
-</p>
+</div>
 
----
+<div align="center">
 
-<h3 align="center">Contact</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/rashsvr" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Rajapaksha-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://gitlab.com/rashsvr" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-rashsvr-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://g.dev/RashmiRajapaksha-RashSVR" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Developer-Rashmi%20Rajapaksha-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Google Developer" />
-  </a>
-  <a href="http://rashsvr.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-rashsvr.com-%23000000.svg?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=github_dark" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashSVR&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RashSVR&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashSVR&theme=github_dark" width="32%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RashSVR&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### `> stack --list`
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Mobile · AR/XR · Game**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia_AR-E4002B?style=flat-square&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend · AI · APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logoColor=white)
+
+**Databases**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-F9A01B?style=flat-square&logo=realm&logoColor=white)
+
+**Tools · Design · DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
+
+**Platforms**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0079D1?style=flat-square&logo=windows&logoColor=white)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
