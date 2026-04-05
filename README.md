@@ -42,8 +42,7 @@ Independent dev — mobile · web · AI agents · AR/XR<br>
 
 <p align="center">
 <br>
-<strong>Rashmi Rajapaksha</strong> — Sri Lanka 🇱🇰<br>
-BSc (Hons) Full Stack Software Engineering · BCU, UK (2026)<br>
+Sri Lanka 🇱🇰<br> 
 3+ years experience · shipped real products for real clients<br>
 Available for <strong>freelance & contract</strong> work<br>
 Building: AI agents · Brain dev games · AR/XR · Community platforms · mobile · web<br>
