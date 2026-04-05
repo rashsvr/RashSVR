@@ -16,12 +16,12 @@
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="22"/>
 &nbsp;
-**`BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026`**
+BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026
 
-```
+<div align="center">
 Independent dev — mobile · web · AI agents · AR/XR
-3+ yrs · shipped for clients worldwide · freelance & contract only
-```
+3+ yrs · shipped for clients  · freelance & contract only
+</div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_rashsvr.com-0d1117?style=for-the-badge&logoColor=white)](http://rashsvr.com)
 [![Email](https://img.shields.io/badge/✉_Email-0891b2?style=for-the-badge&logoColor=white)](mailto:rashmi.s.v.rajapaksha@gmail.com)
@@ -42,35 +42,35 @@ Independent dev — mobile · web · AI agents · AR/XR
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
 ### `> whoami`
-
-```yaml
+<div align="center">
+ 
 name       : Rashmi Rajapaksha
 location   : Sri Lanka 🇱🇰
 degree     : BSc (Hons) Full Stack Software Engineering — BCU, UK (2026)
-experience : 3+ years · international clients · real products
-available  : Freelance & contract only · No exclusivity · No full-time
-building   : AI agents · Brain dev games · AR/XR · Community platforms
+experience : 3+ years ·  clients · real products
+available  : Freelance & contract  
+building   : AI agents · Brain dev games · AR/XR · Community platforms · mobile · web · 
 interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast
-```
-
+ 
+</div>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                        STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### `> stats --all --include-private`
+### `> stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="49%"/>
-<img src="https://readme-stats-omega-ten.vercel.app/api?username=RashSVR&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=0891b2&title_color=0891b2&text_color=94d4e7" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="1009%"/>
+ 
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-stats-omega-ten.vercel.app/api/top-langs/?username=RashSVR&theme=dark&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=0891b2&text_color=94d4e7" width="49%"/>
+ 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=github_dark&utcOffset=5.5" width="49%"/>
 
 </div>
@@ -99,7 +99,7 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 <!--                        STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### `> stack --list`
+### `> stack `
 
 **Languages**
 
