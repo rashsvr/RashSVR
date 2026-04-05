@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:0891b2,100:0d1117&height=400&section=header&text=Rashmi%20Rajapaksha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Mobile%20%E2%80%A2%20AR%2FXR&descAlignY=58&descColor=94d4e7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:0891b2,100:0d1117&height=150&section=header&text=Rashmi%20Rajapaksha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descColor=94d4e7&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -57,7 +57,7 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 <!--                        STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### `> stats`
+ 
 
 <div align="center">
 
