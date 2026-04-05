@@ -38,20 +38,19 @@ Independent dev — mobile · web · AI agents · AR/XR<br>
 <!--                       ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+ 
 
 <p align="center">
 <br>
-name       : Rashmi Rajapaksha<br>
-location   : Sri Lanka 🇱🇰<br>
-degree     : BSc (Hons) Full Stack Software Engineering — BCU, UK (2026)<br>
-experience : 3+ years · clients · real products<br>
-available  : Freelance & contract<br>
-building   : AI agents · Brain dev games · AR/XR · Community platforms · mobile · web<br>
-interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast<br>
+<strong>Rashmi Rajapaksha</strong> — Sri Lanka 🇱🇰<br>
+BSc (Hons) Full Stack Software Engineering · BCU, UK (2026)<br>
+3+ years experience · shipped real products for real clients<br>
+Available for <strong>freelance & contract</strong> work<br>
+Building: AI agents · Brain dev games · AR/XR · Community platforms · mobile · web<br>
+🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast
+<br>
 </p>
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                        STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
