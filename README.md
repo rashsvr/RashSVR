@@ -24,7 +24,7 @@ Independent dev — mobile · web · AI agents · AR/XR<br>
 3+ yrs · shipped for clients · freelance & contract only
 </p>
 
-<br>[![Portfolio](https://img.shields.io/badge/🌐_rashsvr.com-0d1117?style=for-the-badge&logo=react&logoColor=94d4e7&labelColor=0891b2&color=0d1117)](http://rashsvr.com)</br>
+<br>[![Portfolio](https://img.shields.io/badge/✨_rashsvr.com-0d1117?style=for-the-badge&logo=firefox&logoColor=white&labelColor=6e45e2&color=0d1117)](http://rashsvr.com)</br>
 [![Email](https://img.shields.io/badge/✉_Email-0891b2?style=for-the-badge&logoColor=white)](mailto:rashmi.s.v.rajapaksha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashsvr)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rashsvr)
