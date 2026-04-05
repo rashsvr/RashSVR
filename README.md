@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=200&section=header&text=Rashmi%20Rajapaksha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Mobile%20%E2%80%A2%20AR%2FXR&descAlignY=58&descColor=94d4e7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:0891b2,100:0d1117&height=200&section=header&text=Rashmi%20Rajapaksha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Mobile%20%E2%80%A2%20AR%2FXR&descAlignY=58&descColor=94d4e7&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -19,8 +19,8 @@
 BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026
 
 <p align="center">
-Independent dev — mobile · web · AI agents · AR/XR
-3+ yrs · shipped for clients  · freelance & contract only
+Independent dev — mobile · web · AI agents · AR/XR<br>
+3+ yrs · shipped for clients · freelance & contract only
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_rashsvr.com-0d1117?style=for-the-badge&logoColor=white)](http://rashsvr.com)
@@ -41,17 +41,15 @@ Independent dev — mobile · web · AI agents · AR/XR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
-### `> whoami`
-<p align="left">
- 
-name       : Rashmi Rajapaksha
-location   : Sri Lanka 🇱🇰
-degree     : BSc (Hons) Full Stack Software Engineering — BCU, UK (2026)
-experience : 3+ years ·  clients · real products
-available  : Freelance & contract  
-building   : AI agents · Brain dev games · AR/XR · Community platforms · mobile · web · 
-interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast
- 
+<p align="center">
+<br>
+name       : Rashmi Rajapaksha<br>
+location   : Sri Lanka 🇱🇰<br>
+degree     : BSc (Hons) Full Stack Software Engineering — BCU, UK (2026)<br>
+experience : 3+ years · clients · real products<br>
+available  : Freelance & contract<br>
+building   : AI agents · Brain dev games · AR/XR · Community platforms · mobile · web<br>
+interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enthusiast<br>
 </p>
 <br/>
 
@@ -63,32 +61,16 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="1009%"/>
- 
+<img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="100%"/>
 
-</div>
-
-<div align="center">
-
- 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashsvr&theme=transparent" width="80%"/>
-
-</div>
-
- 
-
-<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=transparent" width="80%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashSVR&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashSVR&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=github_dark&utcOffset=5.5" width="32%"/>
- 
 
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashSVR&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff" width="100%"/>
+
 </div>
 
 <br/>
@@ -97,7 +79,7 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 <!--                        STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### `> stack `
+### `> stack`
 
 **Languages**
 
