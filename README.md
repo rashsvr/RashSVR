@@ -13,9 +13,10 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+ 
+[![GitHub followers](https://img.shields.io/github/followers/RashSVR?logo=github&style=flat-square&color=0891b2&labelColor=0d1117&label=followers)](https://github.com/RashSVR)
+[![GitHub stars](https://img.shields.io/github/stars/RashSVR?logo=github&style=flat-square&color=0891b2&labelColor=0d1117&label=stars)](https://github.com/RashSVR)
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="22"/>
-&nbsp;
 BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026
 
 <p align="center">
@@ -28,8 +29,6 @@ Independent dev — mobile · web · AI agents · AR/XR<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashsvr)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rashsvr)
 
-[![GitHub followers](https://img.shields.io/github/followers/RashSVR?logo=github&style=flat-square&color=0891b2&labelColor=0d1117&label=followers)](https://github.com/RashSVR)
-[![GitHub stars](https://img.shields.io/github/stars/RashSVR?logo=github&style=flat-square&color=0891b2&labelColor=0d1117&label=stars)](https://github.com/RashSVR)
 
 </div>
 
