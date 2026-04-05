@@ -71,7 +71,7 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 <div align="center">
 
  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashsvr&theme=transparent" width="50%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashsvr&theme=transparent" width="80%"/>
 
 </div>
 
