@@ -77,7 +77,7 @@ Building: AI agents · Brain dev games · AR/XR · Community platforms · mobile
 <!--                        STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
- 
+ <div align="center">
 
 **Languages**
 
@@ -159,7 +159,7 @@ Building: AI agents · Brain dev games · AR/XR · Community platforms · mobile
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0079D1?style=flat-square&logo=windows&logoColor=white)
-
+</div>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
