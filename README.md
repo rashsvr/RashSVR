@@ -21,7 +21,7 @@ BSc (Hons) Full Stack Software Engineering · BCU, UK · 2026
 
 <p align="center">
 Independent dev — mobile · web · AI agents · AR/XR<br>
-3+ yrs · shipped for clients · freelance & contract only
+3+ yrs · shipped for clients · Available for freelance & contract 
 </p>
 
 <br>[![Portfolio](https://img.shields.io/badge/_rashsvr.com-0d1117?style=for-the-badge&logoColor=white)](http://rashsvr.com)</br>
