@@ -81,7 +81,7 @@ interests  : 🎻 Violinist · ♟️ Chess player · 🌙 Occasional sleep enth
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashSVR&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashSVR&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RashSVR&theme=github_dark](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashsvr&theme=transparent&utcOffset=8)" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=github_dark&utcOffset=5.5" width="32%"/>
  
 
 
