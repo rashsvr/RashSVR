@@ -61,11 +61,11 @@ Building: AI agents · Brain dev games · AR/XR · Community platforms · mobile
 
 <!-- <img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="100%"/> -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=transparent" width="80%"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=transparent" width="80%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashSVR&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashSVR&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=github_dark&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashSVR&theme=github_dark&utcOffset=5.5" width="32%"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashSVR&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff" width="100%"/>
 
